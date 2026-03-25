@@ -1,3 +1,7 @@
+# Course Notes
+
+[Course Notes](https://scottmoss.notion.site/Intro-to-Node-js-V3-7c8e4ccaebf94b839f425fff13dcc44c)
+
 ## Creating a CLI
 
 Setting up a `bin` command is slightly different from a standard script. While `scripts` are just aliases, the `bin` field actually **installs** your script as an executable command in your system's path (or the local `node_modules/.bin` folder).
@@ -60,3 +64,5 @@ To use the command anywhere on your computer (like `git` or `mkdir`), you need t
 - **The Shebang:** If you forget `#!/usr/bin/env node`, the terminal will try to run the file as a shell script instead of JavaScript, leading to syntax errors.
 
 **Would you like me to help you set up command-line arguments so your new command can accept inputs, like `my-command --user=admin`?**
+
+## Modules
