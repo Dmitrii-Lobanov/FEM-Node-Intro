@@ -1,6 +1,6 @@
 import { insertDB, getDB, saveDB } from './db.js'
 
-export const newNote = async (note, tags) => {
+export const newNote = async (note, tags = []) => {
   const data = {
       content: note,
       id: Date.now(),
