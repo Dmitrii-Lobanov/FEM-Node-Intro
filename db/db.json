@@ -1,0 +1,33 @@
+{
+  "notes": [
+    {
+      "content": "clean my room",
+      "id": 1774533586007,
+      "tags": [
+        "work",
+        " serious"
+      ]
+    },
+    {
+      "content": "go back to work",
+      "id": 1774533792863,
+      "tags": [
+        "need",
+        " work"
+      ]
+    },
+    {
+      "content": "no tags, please",
+      "id": 1774533886262,
+      "tags": []
+    },
+    {
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "content": "Test note",
+      "id": 1774537759196
+    }
+  ]
+}
